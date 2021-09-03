@@ -1,0 +1,12 @@
+h3{
+    background-color: rgb(99, 138, 247);
+    width: max-content;
+    border-radius: 5px;
+    text-align: center;
+    height: 30px;
+    color: rgb(231, 208, 79);
+    font-size: 22px;
+}
+canvas{
+    border:1px solid black;
+}
